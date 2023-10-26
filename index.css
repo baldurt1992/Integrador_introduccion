@@ -1,0 +1,16 @@
+.bg-deep-purple-accent-400{
+    background-color: rgb(58, 131, 48);
+}
+
+.bg-deep-purple-accent-400:hover{
+    background-color: rgb(131, 196, 122);
+}
+
+.title-header{
+    font-size: 65px;
+    font-weight: bold;
+}
+
+.bg-gray-900{
+    background-color: rgb(58, 131, 48);
+}
