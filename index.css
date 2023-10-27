@@ -1,16 +1,29 @@
-.bg-deep-purple-accent-400{
-    background-color: rgb(58, 131, 48);
+.bg-deep-purple-accent-400 {
+    background-color: #6b8e23;
 }
 
-.bg-deep-purple-accent-400:hover{
-    background-color: rgb(131, 196, 122);
+.bg-deep-purple-accent-400:hover {
+    background-color: #526d1b;
 }
 
-.title-header{
-    font-size: 65px;
+.title-header {
+    font-size: 70px;
     font-weight: bold;
 }
 
-.bg-gray-900{
-    background-color: rgb(58, 131, 48);
+.color {
+    background-color: #6b8e23;
+    height: 150px;
+    font-size: 17px;
+
+}
+
+.color li:hover {
+    background: linear-gradient(135deg, #6b8e23, #526d1b);
+    transition: background-color 2s ease;
+    border-radius: 3px;
+}
+
+.ml-2 {
+    font-size: 28px;
 }
